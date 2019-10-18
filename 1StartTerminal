@@ -1,3 +1,0 @@
-gnome-terminal -x sh -c 'exec bash'
-#test
-
