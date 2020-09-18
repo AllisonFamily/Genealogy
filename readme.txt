@@ -22,6 +22,8 @@ Various articles and newspaper clippings which mention family members.
 Various ships passenger lists, although I was unsuccessful at finding family in these.
 
 The data is roughly structured as a family tree, and is sort of browsable, although nothing has been prepared for display. If a document won't display in your browser, you can right click and download it.
+In any family's folder, the parent's names start with an underscore.
+This used to bring them to the top of the list on some system I was working on, but it doesn't seem to work here.
 
 This work was done in 2014.
 There may be more information available on the internet by now.
