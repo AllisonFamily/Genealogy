@@ -26,6 +26,6 @@ In any family's folder, the parent's names start with an underscore.
 This used to bring them to the top of the list on some system I was working on, but it doesn't seem to work here.
 
 This work was done in 2014.
-There may be more information available on the internet by now..
+There may be more information available on the internet by now.
 
 Dave Allison.
