@@ -4,7 +4,7 @@ This repository contains source data for my attempt at recording the family tree
 Denis George Allison 1920 – 2005, and
 Hazel Jordan 1923 – 2000.
 
-The tree can be found at: https://www.familysearch.org/tree/pedigree/landscape/LJ1N-V4X
+The tree can be found at: https://www.familysearch.org/tree/pedigree/landscape/LJ1N-K39
 You will need to create an account at https://www.familysearch.org to view this, but there is no charge for doing so.
 
 Caution:
